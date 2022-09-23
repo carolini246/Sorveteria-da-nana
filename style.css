@@ -1,3 +1,6 @@
-h1{
-    background-color: blue;
+body{
+    background-color:black
+}
+p{
+    color: rgba(0, 0, 255, 0.377);
 }
