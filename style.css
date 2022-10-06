@@ -3,14 +3,13 @@
 
 Estilizar a cor de fundo do seu site como o css
 body{
-background-color:aqua
+background-color:aqua;
 }
 
 Estilizar o título principal do seu site
  h1{
 color:black
-font-family: 
-background: 
+font-family:  
 }
 
 Estilizar os parágrafos
