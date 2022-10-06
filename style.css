@@ -8,15 +8,15 @@ background-color:aqua;
 
 Estilizar o título principal do seu site
  h1{
-color:black
-font-family:  
+color:black;
+font-family:Arial, Helvetica, sans-serif ; 
 }
 
 Estilizar os parágrafos
 p{
-color:blueviolet
-font-family:aqua
-font-size: 
-text-aling:center;
-background: ;
+color:blueviolet;
+font-family:'Courier New', Courier, monospace;
+font-size: 25px;
+text-align:center;
+
 }
