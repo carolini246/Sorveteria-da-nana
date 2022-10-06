@@ -1,7 +1,7 @@
 
 body{
 background-color:black;
-font-size: 35px;
+
 }
 
 
@@ -9,6 +9,7 @@ font-size: 35px;
 color:aqua;
 font-family:Georgia, 'Times New Roman', Times, serif ; 
 text-align: center;
+font: 20px;
 }
 
 p{
